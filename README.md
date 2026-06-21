@@ -84,6 +84,7 @@ Users can analyze performance for:
 - Small
 - Regular
 - Large
+- (Blank)
 
 These filters allow dynamic analysis based on customer preferences and purchasing behavior.
 
